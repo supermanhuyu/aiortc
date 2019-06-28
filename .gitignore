@@ -8,3 +8,7 @@
 /build
 /dist
 /docs/_build
+
+*.idea/
+examples/apprtc/1.mp4
+examples/webcam/thread_webcam.py
